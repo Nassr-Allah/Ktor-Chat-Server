@@ -1,0 +1,1 @@
+rootProject.name = "ktor-chatting_server"

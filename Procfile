@@ -1,0 +1,1 @@
+web: ./build/install/ktor-chatting_server/bin/ktor-chatting_server
